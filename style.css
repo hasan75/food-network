@@ -1,0 +1,53 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+.header {
+  background-color: turquoise;
+}
+.logo {
+  height: 70px;
+  width: 100px;
+  padding-left: 20px;
+}
+
+.header-right {
+  float: right;
+}
+.button {
+  float: left;
+  color: white;
+  background-color: tomato;
+  text-align: center;
+  font-weight: 700;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin: 5px;
+  margin-top: 10px;
+}
+.about {
+  margin-right: 10px;
+}
+h1 {
+  font-size: 60px;
+}
+.top-banner {
+  display: flex;
+  border-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 40px;
+}
+.headline {
+  padding-top: 90px;
+}
+.link-page {
+  font-weight: 700;
+  color: white;
+  background-color: tomato;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
