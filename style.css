@@ -51,6 +51,7 @@ h3 {
 }
 .half-width img {
   width: 90%;
+  height: 100%;
 }
 .headline {
   padding-top: 90px;
