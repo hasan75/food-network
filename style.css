@@ -75,3 +75,43 @@ h2 {
   text-align: center;
   padding: 0 30%;
 }
+.flex-container-three {
+  display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 100px;
+}
+.receipe-item {
+  width: 25%;
+  padding-left: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2%;
+  box-shadow: 10px 10px 30px rgb(165, 165, 165);
+  border-radius: 10px;
+}
+.receipe-item img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 10px;
+}
+.three-con-sec {
+  box-shadow: 10px 10px 30px rgb(165, 165, 165);
+  border-radius: 10px;
+}
+.three-con-item {
+  text-align: center;
+  width: 25%;
+  padding-left: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 2%;
+}
+footer {
+  background-color: #0b0d17;
+  text-align: center;
+  padding: 10px;
+}
+footer p {
+  color: white;
+}
